@@ -88,7 +88,7 @@
 </template>
 
 <script>
-import router ../router/
+
 export default {
   name: 'HelloWorld',
   data () {
